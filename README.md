@@ -1,5 +1,5 @@
 # Analysing-Portuguese-Real-Estate-Market
-Investing the knowledge and skills to find how different the property prices and current market demand at major 6 cities of Portugal.
+Leveraging web scraping expertise to analyze the differences in property prices and current market demand across the six major cities in Portugal.
 
 For this project the real estae market of following cities has been choosen: 
 - Lisbon
