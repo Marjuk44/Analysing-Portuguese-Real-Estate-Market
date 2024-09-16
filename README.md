@@ -1,7 +1,7 @@
 # Analysing-Portuguese-Real-Estate-Market
 Leveraging web scraping expertise to analyze the differences in property prices and current market demand across the six major cities in Portugal.
 
-The image bellow shows the city choosen for this project with their average house prices: 
+The image bellow shows the city chosen for this project with their average house prices: 
 
 ![Screenshot 2024-09-16 163216](https://github.com/user-attachments/assets/0010522b-bbab-4530-80c1-7c81ceda67f6)
 ## Data Collection 
