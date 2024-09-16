@@ -2,6 +2,7 @@
 Leveraging web scraping expertise to analyze the differences in property prices and current market demand across the six major cities in Portugal.
 
 The image bellow shows the city choosen for this project with their average house prices: 
+
 ![Screenshot 2024-09-16 163216](https://github.com/user-attachments/assets/0010522b-bbab-4530-80c1-7c81ceda67f6)
 ## Data Collection 
 In order to gather data we choose the renowned marketplace OLX Portugal. Both buyer and seller can meet throgh this platform. We colleceted the data for those ads which took place on last 48 hours. 
